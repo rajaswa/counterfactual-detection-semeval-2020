@@ -1,9 +1,7 @@
 #IMPORTS
 import pandas as pd 
 import torch
-from torch.utils.data import Dataset, DataLoader
-from torchvision import transforms, utils
-import transformers
+from torch.utils.data import Dataset
 
 #DATASETS
 class dataset_task1(Dataset):
