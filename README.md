@@ -1,1 +1,1 @@
-# task-5-semeval-2020
+# Counterfactual Detection (SemEval-2020 Task-5)
